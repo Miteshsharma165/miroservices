@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 11
+Implementation-Title: currency-converion-service
+Implementation-Version: 0.0.2-SNAPSHOT-ZIPKIN
+Created-By: Maven Integration for Eclipse
+
